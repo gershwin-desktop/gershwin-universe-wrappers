@@ -1,0 +1,8 @@
+APP_NAME = Quassel
+EXECUTABLE_NAME = quassel
+EXECUTABLE_PATH = /usr/local/bin/quasselclient
+SERVICE_NAME = Quassel
+WINDOW_SEARCH_STRING = Quassel
+BUNDLE_ID = org.gnustep.quassel-wrapper
+ICON_FILE = Quassel.png
+VERSION = 3.0.0

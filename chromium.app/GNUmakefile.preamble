@@ -1,0 +1,8 @@
+APP_NAME = Chromium
+EXECUTABLE_NAME = chromium
+EXECUTABLE_PATH = /usr/local/bin/chrome
+SERVICE_NAME = Chromium
+WINDOW_SEARCH_STRING = Chromium
+BUNDLE_ID = org.gnustep.chromium-wrapper
+ICON_FILE = Chromium.png
+VERSION = 3.0.0

@@ -1,0 +1,8 @@
+APP_NAME = Code
+EXECUTABLE_NAME = code
+EXECUTABLE_PATH = /usr/local/share/code-oss/code-oss
+SERVICE_NAME = Code
+WINDOW_SEARCH_STRING = Code
+BUNDLE_ID = org.gnustep.code-wrapper
+ICON_FILE = Code.png
+VERSION = 3.0.0
